@@ -1,6 +1,9 @@
 # SEAL
 [![python](.github/python_version.svg)](.github/python_version.svg)
-[![logo](.github/logo.svg)](.github/logo.svg)
+
+<center>
+<img src=".github/logo.svg", alt="SEAL logo">
+</center>
 
 Experimenting is a crucial part of machine learning projects and we believe that structured experimentations bring more understandable and explainable results. Following our belief, we propose SEAL, a python framework that tries to improve structure and method in machine learning experimentations, in addition, to provide an autoML backend support.
 
