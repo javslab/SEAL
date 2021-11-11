@@ -22,7 +22,7 @@ with open(os.path.join(HERE, 'requirements.txt')) as fp:
     install_reqs = [r.rstrip() for r in fp.readlines()
                     if not r.startswith('#') and not r.startswith('git+')]
 
-with open('README.rst') as fh:
+with open('README.md') as fh:
     long_description = fh.read()
 
 extras_reqs={
